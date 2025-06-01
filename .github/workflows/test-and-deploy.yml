@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # Nutné pro push do větve gh-pages
+  contents: write  # nutné pro push do větve gh-pages
   pages: write
   id-token: write
 
