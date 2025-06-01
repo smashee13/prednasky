@@ -6,7 +6,7 @@ on:
       - main
 
 permissions:
-  contents: write  # nutné pro push do větve gh-pages
+  contents: write  # Nutné pro push do větve gh-pages
 
 jobs:
   build-and-deploy:
