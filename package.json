@@ -1,0 +1,12 @@
+{
+  "name": "ci-cd-demo",
+  "version": "1.0.0",
+  "description": "Jednoduchý JavaScript projekt pro demonstrování CI/CD",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
